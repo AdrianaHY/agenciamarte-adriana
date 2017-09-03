@@ -1,0 +1,39 @@
+@import "variables";
+
+body{
+  padding:0;
+  margin:0;
+  background: $body-color;
+}
+.bg-light{
+  background:$background-color;
+}
+.margin-top{
+  margin-top: 5%;
+}
+
+.width{
+  width: 50%;
+}
+.white-color{
+  background: $white-color;
+}
+.white-font{
+  color:$white-color;
+}
+
+#form{
+  background:$red-color;
+  padding: 2%;
+  margin-top:5%;
+}
+button{
+  background: #d9c26c;
+  color:$white-color;
+  padding-left: 0;
+  padding-right: 0;
+}
+footer{
+  background: #f2f5f8;
+  padding:4%;
+}

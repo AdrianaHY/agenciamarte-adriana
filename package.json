@@ -1,0 +1,33 @@
+{
+  "name": "agenciamarte_adriana",
+  "version": "1.0.0",
+  "description": "Maquetacion tres estrellas,desktop y responsive",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianaHY/agenciamarte-adriana.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "responsive",
+    "desktop"
+  ],
+  "author": "AdrianaHY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianaHY/agenciamarte-adriana/issues"
+  },
+  "homepage": "https://github.com/AdrianaHY/agenciamarte-adriana#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  },
+  "dependencies": {
+    "gulp-sass": "^3.1.0"
+  }
+}
